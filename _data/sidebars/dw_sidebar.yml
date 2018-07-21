@@ -1,0 +1,208 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Dungeon World
+  version: 6.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Playing
+    output: web, pdf
+    folderitems:
+
+    - title: Introduction
+      url: /dw_introduction.html
+      output: web, pdf
+
+    - title: Why Play Dungeon World
+      url: /dw_why_play_dungeon_world.html
+      output: web, pdf
+
+    - title: Example of Play
+      url: /dw_example_of_play.html
+      output: web, pdf
+
+    - title: Playing the Game
+      url: /dw_playing_the_game.html
+      output: web, pdf
+
+    - title: Character Creation
+      url: /dw_character_creation.html
+      output: web, pdf
+
+    - title: Basic Moves
+      url: /dw_basic_moves.html
+      output: web, pdf
+
+    - title: Basic Moves Discussion
+      url: /dw_basic_moves_discussion.html
+      output: web, pdf
+
+    - title: Special Moves
+      url: /dw_special_moves.html
+      output: web, pdf
+
+    - title: Special Moves Discussion
+      url: /dw_special_moves_discussion.html
+      output: web, pdf
+
+    - title: Equipment
+      url: /dw_equipment.html
+      output: web, pdf
+
+  - title: Classes
+    output: web, pdf
+    folderitems:
+
+    - title: Class Moves Discussion
+      url: /dw_class_moves_discussion.html
+      output: web, pdf
+
+    - title: Barbarian
+      url: /dw_barbarian.html
+      output: web, pdf
+
+    - title: Bard
+      url: /dw_bard.html
+      output: web, pdf
+
+    - title: Cleric
+      url: /dw_cleric.html
+      output: web, pdf
+
+    - title: Cleric Spells
+      url: /dw_cleric_spells.html
+      output: web, pdf
+
+    - title: Druid
+      url: /dw_druid.html
+      output: web, pdf
+
+    - title: Fighter
+      url: /dw_fighter.html
+      output: web, pdf
+
+    - title: Immolator
+      url: /dw_immolator.html
+      output: web, pdf
+
+    - title: Paladin
+      url: /dw_paladin.html
+      output: web, pdf
+
+    - title: Ranger
+      url: /dw_ranger.html
+      output: web, pdf
+
+    - title: Thief
+      url: /dw_thief.html
+      output: web, pdf
+
+    - title: Wizard
+      url: /dw_wizard.html
+      output: web, pdf
+
+    - title: Wizard Spells
+      url: /dw_wizard_spells.html
+      output: web, pdf
+
+  - title: GMing
+    output: web, pdf
+    folderitems:
+
+    - title: GM
+      url: /dw_gm.html
+      output: web, pdf
+
+    - title: First Session
+      url: /dw_first_session.html
+      output: web, pdf
+
+    - title: Fronts
+      url: /dw_fronts.html
+      output: web, pdf
+
+    - title: The World
+      url: /dw_the_world.html
+      output: web, pdf
+
+    - title: Advanced Delving
+      url: /dw_advanced_delving.html
+      output: web, pdf
+
+  - title: Monsters
+    output: web, pdf
+
+    folderitems:
+    - title: Overview
+      url: /dw_monsters.html
+      output: web, pdf
+
+    - title: Cavern Dwellers
+      url: /dw_cavern_dwellers.html
+      output: web, pdf
+
+    - title: Dark Woods
+      url: /dw_dark_woods.html
+      output: web, pdf
+
+    - title: Folk of the Realm
+      url: /dw_folk_of_the_realm.html
+      output: web, pdf
+
+    - title: Lower Depths
+      url: /dw_lower_depths.html
+      output: web, pdf
+
+    - title: Planar Powers
+      url: /dw_planar_powers.html
+      output: web, pdf
+
+    - title: Ravenous Hordes
+      url: /dw_ravenous_hordes.html
+      output: web, pdf
+
+    - title: Twisted Experiments
+      url: /dw_twisted_experiments.html
+      output: web, pdf
+
+    - title: Swamp Denizens
+      url: /dw_swamp_denizens.html
+      output: web, pdf
+
+    - title: Undead Legions
+      url: /dw_undead_legions.html
+      output: web, pdf
+
+  - title: Appendices
+    output: web, pdf
+
+    folderitems:
+    - title: Thanks
+      url: /dw_thanks.html
+      output: web, pdf
+
+    - title: Teaching
+      url: /dw_teaching.html
+      output: web, pdf
+
+    - title: Conversion
+      url: /dw_conversion.html
+      output: web, pdf
+
+    - title: NPCs
+      url: /dw_npcs.html
+      output: web, pdf

@@ -1,11 +1,86 @@
-jekyll_platform: "Jekyll is a static site generator that builds sites using most modern web technologies."
+applied: "It’s only useful when carefully applied to a person or to something
+they eat or drink."
 
-fractious: "Like a little mischevious child, full of annoying and constant trouble."
+awkward: "It’s unwieldy and tough to use."
 
-gratuitous: "Something that is unwarranted and uncouth, like the social equivalent of a flagrant foul."
+bonus: 'It modifies your effectiveness in a specified situation. It might be
+“+1 forward to spout lore” or “-1 ongoing to hack and slash.”'
 
-haughty: "Proud and flaunting it. Holding your head high up like a snooty, too-good-for-everything rich person."
+coins: 'How much it costs to buy, normally. If the cost includes
+“-Charisma” a little negotiation subtracts the haggler’s Charisma score (not
+modifier) from the price.'
 
-impertinent: "Someone acting rude and insensitive to others."
+dangerous: "It’s easy to get in trouble with it. If you interact with it
+without proper precautions the GM may freely invoke the consequences of your
+foolish actions."
 
-intrepid: "Brave and courageous especially in a difficult, dangerous situation."
+ration: "It’s edible, more or less."
+
+requires: "It’s only useful to certain people. If you don’t meet the
+requirements it works poorly, if at all."
+
+slow: "It takes minutes or more to use."
+
+touch: "It’s used by touching it to the target’s skin."
+
+two-handed: "It takes two hands to use it effectively."
+
+weight: "Count the listed amount against your load. Something with no
+listed weight isn’t designed to be carried. 100 coins in standard
+denominations is 1 weight. The same value in gems or fine art may be lighter
+or heavier."
+
+worn: "To use it, you have to be wearing it."
+
+uses: "It can only be used n times."
+
+ammo: "It counts as ammunition for appropriate ranged weapons. The number
+indicated does not represent individual arrows or sling stones, but represents
+what you have left on hand."
+
+forceful: "It can knock someone back a pace, maybe even off their feet."
+
+damage: "It is particularly harmful to your enemies. When you deal damage,
+you add n to it."
+
+ignore armor: "Don’t subtract armor from the damage taken."
+
+messy: "It does damage in a particularly destructive way, ripping people and
+things apart."
+
+piercing: "It goes right through armor. When you deal damage with n
+piercing, you subtract n from the enemy’s armor for that attack."
+
+precise: "It rewards careful strikes. You use DEX to hack and slash with this
+weapon, not STR."
+
+reload: "After you attack with it, it takes more than a moment to reset for
+another attack."
+
+stun: "When you attack with it, it does stun damage instead of normal damage."
+
+thrown: "Throw it at someone to hurt them. If you volley with this weapon,
+you can’t choose to mark off ammo on a 7–9; once you throw it, it’s gone until
+you can recover it."
+
+hand: "It’s useful for attacking something within your reach, no further."
+
+close: "It’s useful for attacking something at arm’s reach plus a foot or
+two."
+
+reach: "It’s useful for attacking something that’s several feet away— maybe as
+far as ten."
+
+near: "It’s useful for attacking if you can see the whites of their eyes."
+
+far: "It’s useful for attacking something in shouting distance."
+
+armor: "It protects you from harm and absorbs damage. When you take damage,
+subtract your armor from the total. If you have more than one item with n
+Armor, only the highest value counts."
+
++armor: "It protects you and stacks with other armor. Add its value to your
+total armor."
+
+clumsy: "It’s tough to move around with. -1 ongoing while using it. This
+penalty is cumulative."

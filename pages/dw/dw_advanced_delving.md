@@ -234,7 +234,7 @@ available only to characters who have had a certain experience, like this:
 When you enter the bodily presence of a god or their avatar the next time you
 gain a level you can choose this move instead of a move from your class:
 
-### Divine Bond
+#### Divine Bond
 
 When you write a new bond, instead of using the name of another character you
 can use the name of a deity you’ve had contact with. Anytime a bond with a

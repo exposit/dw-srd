@@ -78,14 +78,15 @@ Next you need to figure out the modifiers for your stats. The modifiers are
 what you use when a move says +DEX or +CHA. If you’re using the standard
 character sheets the modifiers are already listed with each score.
 
-Score Modifier:
-*1–3:* -3
-*4–5:* -2
-*6–8:* -1
-*9–12:* 0
-*13–15:* +1
-*16–17:* +2
-*18:* +3
+| Score | Modifier |
+|-------|----------|
+| 1–3   | -3 |
+| 4–5   | -2 |
+| 6–8   | -1 |
+| 9–12  |  0 |
+| 13–15 | +1 |
+| 16–17 | +2 |
+| 18    | +3 |
 
 ## 7\. Set Maximum HP
 

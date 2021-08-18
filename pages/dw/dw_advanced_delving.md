@@ -88,12 +88,12 @@ Your Dungeon World is full of fantastic things, right? You’re likely to find
 that some of those fantastic things deserve or demand custom moves to reflect
 exactly what they do. Consider this one from Chris Bennet:
 
-When you **open a sewer hatch**, roll+STR: ✴On a 10+, choose 2. ✴On a 7–9
-choose 1.
-
-  * You avoid being covered in feces and rotting animal entrails from the sewers above.
-  * You avoid having a gelatinous cube land on you.
-  * You find a secret back entrance to where the merchant’s daughter is being held.
+> When you **open a sewer hatch**, roll+STR: ✴On a 10+, choose 2. ✴On a 7–9
+> choose 1.
+> 
+>   * You avoid being covered in feces and rotting animal entrails from the sewers above.
+>   * You avoid having a gelatinous cube land on you.
+>   * You find a secret back entrance to where the merchant’s daughter is being held.
 
 This move is strong because it is tied strongly to a particular place at a
 particular time. This move was written by request for Jason Morningstar’s
@@ -120,10 +120,10 @@ Each class has enough moves to take it through tenth level but that doesn’t
 mean you can’t add more. Adding moves to a class can demonstrate your idea of
 Dungeon World. Take this one, for example:
 
-When you **claim a room for your deity**, mark every entrance and roll+WIS:
-✴On a 10+, the room is peacebonded: no one can take action to cause physical
-harm within it. ✴On a 7–9, the room is peacebonded, but the show of divine
-power draws attention. You can dismiss the peacebond as you see fit.
+> When you **claim a room for your deity**, mark every entrance and roll+WIS:
+> ✴On a 10+, the room is peacebonded: no one can take action to cause physical
+> harm within it. ✴On a 7–9, the room is peacebonded, but the show of divine
+> power draws attention. You can dismiss the peacebond as you see fit.
 
 This move presents a slightly different side of Dungeon World, one that can
 demand peace \(something that usually doesn’t come easily to PCs\). This may
@@ -231,17 +231,17 @@ classes.
 The basic structure of a compendium class is to have a starting move that is
 available only to characters who have had a certain experience, like this:
 
-When you enter the bodily presence of a god or their avatar the next time you
-gain a level you can choose this move instead of a move from your class:
-
-#### Divine Bond
-
-When you write a new bond, instead of using the name of another character you
-can use the name of a deity you’ve had contact with. Anytime a bond with a
-deity applies to the current situation you can mark it off \(as if it was
-resolved\) to call on the deity’s favor in a clear and decisive way that the
-GM describes. At the end of the session you then replace the marked off bond
-with a new one, with a deity or player character.
+> When you enter the bodily presence of a god or their avatar the next time you
+> gain a level you can choose this move instead of a move from your class:
+> 
+> #### Divine Bond
+> 
+> When you write a new bond, instead of using the name of another character you
+> can use the name of a deity you’ve had contact with. Anytime a bond with a
+> deity applies to the current situation you can mark it off \(as if it was
+> resolved\) to call on the deity’s favor in a clear and decisive way that the
+> GM describes. At the end of the session you then replace the marked off bond
+> with a new one, with a deity or player character.
 
 Note that the move is only available after the character has done a specific
 thing, and even then only at their next level. Compendium classes are best
@@ -271,24 +271,24 @@ find that you want to front-load the experience a little more. Here’s a move
 that covers “the adventure so far” so that you can get straight into a short
 game in media res.
 
-Stalwart Fighter: As if the bandits weren’t bad enough\! As if all the sword
-wounds, bruises and beatings at the hands of your enemies were
-insufficient—now this. Trapped underground with your adventuring companions
-when all you wanted was to return to the town and spend your well-earned
-bounty. No such luck, warrior. Sharpen that sword\! Certainly, the others will
-need your protecting before safety is found. Just like last time. Once more
-into the breach, right? I swear, one of these fellows must owe you a favor or
-two by now…
-
-Have a look around and roll+CHA. ✴On a 10+, choose two party members. ✴On a
-7–9, choose just one. ✴On a 6-, you’re surrounded by ingrates.
-
-At a moment of need, you can cash in a favor owed you by one of the party
-members chosen. They must change their action to one of your choosing, once.
-You may not give them an action that would involve them directly taking
-damage, giving up a magic item they already own or coming to immediate harm.
-Use it to make them agree with you, or give you that extra ration you want, or
-giving you their slot in the loot lottery. Leverage is sweet.
+> Stalwart Fighter: As if the bandits weren’t bad enough\! As if all the sword
+> wounds, bruises and beatings at the hands of your enemies were
+> insufficient—now this. Trapped underground with your adventuring companions
+> when all you wanted was to return to the town and spend your well-earned
+> bounty. No such luck, warrior. Sharpen that sword\! Certainly, the others will
+> need your protecting before safety is found. Just like last time. Once more
+> into the breach, right? I swear, one of these fellows must owe you a favor or
+> two by now…
+> 
+> Have a look around and roll+CHA. ✴On a 10+, choose two party members. ✴On a
+> 7–9, choose just one. ✴On a 6-, you’re surrounded by ingrates.
+> 
+> At a moment of need, you can cash in a favor owed you by one of the party
+> members chosen. They must change their action to one of your choosing, once.
+> You may not give them an action that would involve them directly taking
+> damage, giving up a magic item they already own or coming to immediate harm.
+> Use it to make them agree with you, or give you that extra ration you want, or
+> giving you their slot in the loot lottery. Leverage is sweet.
 
 The most important part of this move is not the roll or the effect, but the
 information and tone. It sets the stage for a quick adventure and gives the
@@ -302,12 +302,12 @@ running. When doing this it’s key that you show the players the new End of
 Session move. The goal isn’t to keep them in the dark about what earns XP, but
 to make the XP awards tie directly to this adventure.
 
-When you end the session, instead of using the normal end of session
-questions, use these:
-
-  * Did we learn something about the Cult of the Scaled God?
-  * Did we rescue a captured villager or help defend the village of Secor?
-  * Did we defeat a major agent of the Cult of the Scaled God?
+> When you end the session, instead of using the normal end of session
+> questions, use these:
+> 
+>   * Did we learn something about the Cult of the Scaled God?
+>   * Did we rescue a captured villager or help defend the village of Secor?
+>   * Did we defeat a major agent of the Cult of the Scaled God?
 
 ### Move Structure
 
@@ -365,9 +365,9 @@ them:
 Moves can also change the basic structure of the game. Consider this one, to
 avoid the use of damage dice:
 
-When you would deal damage, instead of rolling the dice, substitute each dice
-with the listed number. d4 becomes 2, d6 becomes 3, d8 becomes 4, d10 becomes
-5, d12 becomes 6.
+> When you would deal damage, instead of rolling the dice, substitute each dice
+> with the listed number. d4 becomes 2, d6 becomes 3, d8 becomes 4, d10 becomes
+> 5, d12 becomes 6.
 
 Moves like this change one of the basic features of the game. Be very careful
 with moves that muck with the fundamentals. Moves should never contradict the
@@ -388,9 +388,9 @@ normal blade isn’t hack and slash because a typical blade can’t hurt it. If,
 however, that isn’t enough, consider this move from Vincent Baker, originally
 from Apocalypse World \(reworded slightly to match Dungeon World rules\):
 
-When a player makes a move and the GM judges it especially difficult, the
-player takes -1 to the roll. When a player’s character makes a move and the GM
-judges it clearly beyond them, the player takes -2 to the roll.
+> When a player makes a move and the GM judges it especially difficult, the
+> player takes -1 to the roll. When a player’s character makes a move and the GM
+> judges it clearly beyond them, the player takes -2 to the roll.
 
 The problem with this move is that the move no longer reflects anything
 concrete. Instead, the move is a prompt for the GM to make judgment calls with
@@ -405,27 +405,27 @@ earliest Dungeon World moves, originally written by Tony Dowler. The first
 version looked like this \(this version has been reformatted and edited for
 grammar only\):
 
-When you wade into combat, attacking your enemies, deal damage to the enemy
-you’re attacking, take that enemy’s damage, and roll+Str. ✴On a 10+, choose 2.
-✴On a 7–9 choose 1.
-
-  * Prevent one ally from taking damage this round
-  * Kill one enemy of lower level than you or deal max damage to otherwise
-  * Put an enemy right where you want them \(drive them off, prevent them from fleeing, etc.\)
-  * Divide your damage amongst any number of targets you can reach with your weapon
+> When you wade into combat, attacking your enemies, deal damage to the enemy
+> you’re attacking, take that enemy’s damage, and roll+Str. ✴On a 10+, choose 2.
+> ✴On a 7–9 choose 1.
+> 
+>   * Prevent one ally from taking damage this round
+>   * Kill one enemy of lower level than you or deal max damage to otherwise
+>   * Put an enemy right where you want them \(drive them off, prevent them from fleeing, etc.\)
+>   * Divide your damage amongst any number of targets you can reach with your weapon
 
 The first problem with this move is that one of the options, preventing
 damage, is far less useful than the others. Being able to outright kill an
 enemy is nearly always better than preventing that enemy from doing damage.
 The first major revision was to drop that option:
 
-When you wade into combat, attacking your enemies, deal damage to the enemy
-you’re attacking, take that enemy’s damage, and roll+Str. ✴On a 10+ choose 2.
-✴On a 7–9 choose 1.
-
-  * Kill one enemy of lower level than you or deal max damage to otherwise
-  * Put an enemy right where you want them \(drive them off, prevent them from fleeing, etc.\)
-  * Divide your damage amongst any number of targets you can reach with your weapon
+> When you wade into combat, attacking your enemies, deal damage to the enemy
+> you’re attacking, take that enemy’s damage, and roll+Str. ✴On a 10+ choose 2.
+> ✴On a 7–9 choose 1.
+> 
+>   * Kill one enemy of lower level than you or deal max damage to otherwise
+>   * Put an enemy right where you want them \(drive them off, prevent them from fleeing, etc.\)
+>   * Divide your damage amongst any number of targets you can reach with your weapon
 
 This left only three options which is a great number of options to have when a
 10+ lets you pick two. The player making the move always had to not choose one
@@ -443,29 +443,29 @@ hit the treant behind him?
 
 Scoping down the fictional effect of the move lead to this version:
 
-When you attack an enemy who can defend themselves, roll+Str. ✴On a 10+, you
-deal your damage but your enemy does not get to deal theirs to you. If you
-choose, you can take your enemy’s damage and deal double damage to the enemy.
-✴On a 7–9, you take the enemy’s damage and deal your damage.
+> When you attack an enemy who can defend themselves, roll+Str. ✴On a 10+, you
+> deal your damage but your enemy does not get to deal theirs to you. If you
+> choose, you can take your enemy’s damage and deal double damage to the enemy.
+> ✴On a 7–9, you take the enemy’s damage and deal your damage.
 
 Here the move now has only the effects that could clearly follow from a single
 attack. Any action that couldn’t reasonably lead to a counterattack isn’t hack
 and slash, so now the trigger matches the effects. Unfortunately double damage
 was a bit much, so we changed it to this:
 
-When you attack an enemy in melee, roll+Str. ✴On a 7–9, you deal your damage
-to the enemy and take their damage. ✴On a 10+ you deal your damage to the
-enemy. You can choose to also take the enemy’s damage to deal +2 damage.
+> When you attack an enemy in melee, roll+Str. ✴On a 7–9, you deal your damage
+> to the enemy and take their damage. ✴On a 10+ you deal your damage to the
+> enemy. You can choose to also take the enemy’s damage to deal +2 damage.
 
 +2 damage is a clear advantage, but not a game breaker. The only problem here
 is that it reduced the effects of an attack to taking damage. Monsters do so
 much more than just take away your HP; monsters hurl you about the room and
 destroy the ground you stand on, why can’t they do that in response?
 
-When you attack an enemy in melee, roll+Str. ✴On a 10+, you deal your damage
-to the enemy and avoid their attack. At your option, you may choose to do +1d6
-damage but expose yourself to the enemy’s attack. ✴On a 7–9, you deal your
-damage to the enemy and the enemy makes an attack against you.
+> When you attack an enemy in melee, roll+Str. ✴On a 10+, you deal your damage
+> to the enemy and avoid their attack. At your option, you may choose to do +1d6
+> damage but expose yourself to the enemy’s attack. ✴On a 7–9, you deal your
+> damage to the enemy and the enemy makes an attack against you.
 
 This version \(the final one\) allows a monster to “attack” not just deal
 damage. That opens up a whole host of interesting monster moves to be used.
@@ -522,10 +522,7 @@ and won’t always be opposed to the player characters. If you want to make
 Dungeon World about hunting down evil monsters and destroying them, you might
 rewrite some of the questions, maybe adding this:
 
-### Example Monster
-
-The monster is Evil through and through. Choose one to reflect why it’s
-evil:
+#### The monster is Evil through and through. Choose one to reflect why it’s evil:
 
   * It’s an intrusion of the Old Ones Beyond the Walls: Planar, +5 damage
   * It’s a product of the Old Wizards of the Red Tower: Construct, +5 HP

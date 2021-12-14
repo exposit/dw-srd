@@ -63,7 +63,7 @@ You start with these moves:
 
 ### Arcane Art
 
-When you** weave a performance into a basic spell**, choose an ally and an
+When you **weave a performance into a basic spell**, choose an ally and an
 effect:
 
   * Heal 1d8 damage
